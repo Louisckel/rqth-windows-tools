@@ -1,6 +1,6 @@
 # LouisScripts
 
-rqth-windows-tools
+Scripts IT N1/N2 – Automatisation Windows & Accessibilité RQTH
 
 ## 🎯 Objectif
 
