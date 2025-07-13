@@ -1,7 +1,7 @@
 # LouisScripts
 
 Scripts IT N1/N2 – Automatisation Windows & Accessibilité RQTH
-
+Scripts conçus pour améliorer l’accessibilité numérique et l’efficacité du support IT, dans une logique d’automatisation et d’inclusion
 ## 🎯 Objectif
 
 Ce dépôt regroupe une série de scripts `.bat` et `.vbs` conçus pour :
